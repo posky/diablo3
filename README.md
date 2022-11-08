@@ -1,3 +1,3 @@
 # diablo3
 
-diablo helper
+diablo3 helper
